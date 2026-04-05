@@ -40,6 +40,23 @@ A comprehensive personal productivity and life tracking application built with S
 - **Print**: Print reports and summaries of your tracked data
 - **Record Screen**: Screen recording capability for sharing progress or tutorials
 
+## Screenshots
+
+### Dashboard
+![Dashboard Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.24%20AM.png)
+
+### Task Manager
+![Task Manager Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.35%20AM.png)
+
+### Learning Tracker
+![Learning Tracker Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.43%20AM.png)
+
+### Analytics
+![Analytics Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.50%20AM.png)
+
+### Daily Reflection
+![Reflection Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.57%20AM.png)
+
 ## How to Run
 
 ### Prerequisites
