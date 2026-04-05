@@ -43,19 +43,19 @@ A comprehensive personal productivity and life tracking application built with S
 ## Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.24%20AM.png)
+![Dashboard Screenshot](src/images/dashboard.png)
 
 ### Task Manager
-![Task Manager Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.35%20AM.png)
+![Task Manager Screenshot](src/images/taskManager.png)
 
 ### Learning Tracker
-![Learning Tracker Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.43%20AM.png)
+![Learning Tracker Screenshot](src/images/learning.png)
 
 ### Analytics
-![Analytics Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.50%20AM.png)
+![Analytics Screenshot](src/images/analytics.png)
 
 ### Daily Reflection
-![Reflection Screenshot](src/images/Screenshot%202026-04-06%20at%201.09.57%20AM.png)
+![Reflection Screenshot](src/images/dailyReflection.png)
 
 ## How to Run
 
